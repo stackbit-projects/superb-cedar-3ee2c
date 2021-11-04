@@ -7,7 +7,7 @@
         "letterSpacing": "-0.05em"
     },
     "h2": {
-        "weight": "normal",
+        "weight": "bold",
         "decoration": "underline",
         "case": "capitalize",
         "letterSpacing": "-0.025em"
