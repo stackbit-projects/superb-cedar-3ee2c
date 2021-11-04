@@ -3,7 +3,7 @@
     "h1": {
         "weight": "bold",
         "decoration": "none",
-        "case": "capitalize",
+        "case": "none",
         "letterSpacing": "-0.05em"
     },
     "h2": {
