@@ -9,7 +9,7 @@
     "h2": {
         "weight": "normal",
         "decoration": "underline",
-        "case": "uppercase",
+        "case": "capitalize",
         "letterSpacing": "normal"
     },
     "h3": {
