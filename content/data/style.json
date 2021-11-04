@@ -10,7 +10,7 @@
         "weight": "normal",
         "decoration": "underline",
         "case": "capitalize",
-        "letterSpacing": "0.025em"
+        "letterSpacing": "-0.025em"
     },
     "h3": {
         "weight": "bold",
