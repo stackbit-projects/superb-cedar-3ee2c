@@ -28,7 +28,7 @@
     "complementary": "#e9f6ff",
     "complementaryAlt": "#fffde2",
     "buttonPrimary": {
-        "radius": "9999px",
+        "radius": 0,
         "case": "none"
     },
     "buttonSecondary": {
